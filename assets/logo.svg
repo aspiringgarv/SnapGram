@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="200">
+	<!-- Outline Text -->
+	<text x="50%" y="50%"  font-family="Pacifico, cursive" font-size="40" fill="white" text-anchor="middle" alignment-baseline="middle" stroke="black" stroke-width="3" font-style="italic">
+		SnapFusion
+	</text>
+
+	<!-- Main Text -->
+	<text x="50%" y="50%" font-family="Pacifico, cursive" font-size="40" fill="black" text-anchor="middle" alignment-baseline="middle" font-style="italic">
+		SnapFusion
+	</text>
+</svg>

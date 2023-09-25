@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284918876017",
+    "project_id": "icolone",
+    "storage_bucket": "icolone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284918876017:android:c40e735022611d2649d8d0",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284918876017-723bjege4ksrga1nbqk49vouufddoa3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuAtQ8g99C3mNLi5QtP8rsTzvzn37sUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284918876017-723bjege4ksrga1nbqk49vouufddoa3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
